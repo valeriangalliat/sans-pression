@@ -54,6 +54,6 @@
 ## 🗓 Timings
 
 * Brewing: 2018-12-02
-* Dry hop:
+* Dry hop: 2018-12-05
 * Botteling:
 * Tasting:
