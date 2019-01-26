@@ -56,4 +56,4 @@
 * Brewing: 2018-12-02
 * Dry hop: 2018-12-05
 * Botteling: 2018-12-31
-* Tasting:
+* Tasting: 2018-01-21
