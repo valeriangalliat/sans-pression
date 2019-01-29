@@ -1,6 +1,6 @@
 # 🍻 Sans Pression Nanobrewery
 
-> 📝 Open-source nanobrewery
+> 📝 Open-source nanobrewery.
 
 ## 🗓 [Board][board]
 
