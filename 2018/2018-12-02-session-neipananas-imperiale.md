@@ -1,6 +1,6 @@
 # 🍺 Session NEIPAnanas Impériale
 
-> 📝 Session NEIPA with pineapple (added at the dry hop)
+> 📝 Session NEIPA with pineapple (added at the dry hop).
 
 ##  ⚖️ Ingredient (6 gallons)
 
@@ -57,3 +57,26 @@
 * Dry hop: 2018-12-05
 * Botteling: 2018-12-31
 * Tasting: 2018-01-21
+
+## 😋 Tasting
+
+Smells like sweet pineapple, happy to see that the dry hopped pineapple
+did help keeping its sweetness. However tastes a lot like the Session
+NEIPAnanas, there's not much if any added pineapple taste or sweetness
+on the palate. Very light as well (also 3.5 to 4.5 percent), super easy
+to drink. Makes for a perfect refreshing and thirst-quenching sport
+beer.
+
+The sweet smell makes me slightly prefer it to the Session NEIPAnanas,
+we'll definitely go for more dry hopped fruits in the future. However we
+need a way to give it a more fruity taste as opposed to only smell.
+
+The active fermentation started a couple days later than expected, and
+we dry hopped including the pineapple while it was probably still
+active, as it really picked up a bit after and stayed active for a
+couple more days. Maybe if we would have waited the active fermentation
+to be absolutely done before dry hopping the taste would have been more
+fruity.
+
+We'll need to try this recipe again at some point to verify this point.
+Can't go wrong as regardless of the fruitiness, I still love this beer.

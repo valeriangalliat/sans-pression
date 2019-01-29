@@ -1,6 +1,6 @@
 # 🍺 Session NEIPAnanas
 
-> 📝 Session NEIPA with pineapple (added at the end of the wort boil)
+> 📝 Session NEIPA with pineapple (added at the end of the wort boil).
 
 ##  ⚖️ Ingredient (6 gallons)
 
@@ -58,3 +58,13 @@
 * Botteling: 2018-12-04
 * Pretasting: 2018-12-14
 * Tasting: 2018-12-17
+
+## 😋 Tasting
+
+Smells like pineapple, but really dry (as in not sweet at all). Good
+hoppy taste without being overwhelmingly bitter, with some hop fruity
+notes. Very light (guessing 3.5 to 4.5 percent), super easy to drink.
+Makes for a perfect refreshing and thirst-quenching sport beer.
+
+Would have liked it to have more pineapple character. Hoping for the
+Session NEIPAnanas Impériale with dry hopped pineapple will bring this.
