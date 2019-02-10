@@ -30,7 +30,7 @@
 
 ### 🚰 Mash
 
-* Mash 18.5 L at 73 °C for 1 hour
+* Mash 18.5 L at 73 °C for 1 hour (it should stay at 67 °C)
 * Drain into mash tun
 * Add 15 L at 76 °C for 15 minutes into the mash
 * Drain into mash tun

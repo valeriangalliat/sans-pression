@@ -1,25 +1,26 @@
-# 🍺 Fruithé
+# 🍺 Pample-mousse
 
-> 📝 Blond ale with tea (infused after active fermentation).
+> 📝 Grapefruit Brett saison.
 
 ##  ⚖️ Ingredient (6 gallons)
 
 ### 🌾 Grains
 
-* 5 kg pilsner malt
-* 500 g wheat
+* 4.5 kg pilsner malt
+* 500 g aromatic
+* 500 g rye
 
 ### 🌿 Hops
 
-* 50 g Celeia
+* 50 g Fuggles
 
 ### 🧫 Yeast
 
-* Escarpment Laboratories Ardennes Ale (5 gallons pack)
+* Escarpment Laboratories Ontario Farmhouse Ale Blend (5 gallons pack)
 
-### 🍃 Extra
+### 🍊 Extra
 
-* 150 g of tea (DAVIDsTEA green passionfruit)
+* 2 L of freshly pressed grapefruit juice
 
 ## 📖 Recipe
 
@@ -33,19 +34,19 @@
 ### ⏱  Boil
 
 * Boil for 1 hour
-* At 0 minutes, add 15 g Celeia hops
-* At 45 minutes, add 15 g Celeia hops
+* At 0 minutes, add 15 g Fuggles hops
+* At 45 minutes, add 15 g Fuggles hops
 
 ### ⚗️ Fermentation
 
 * Cool down to 20 °C
 * Syphon into carboy
 * Add yeast and gently mix
-* After active fermentation, dry hop with the tea (dry tea)
+* After active fermentation, add the grapefruit juice
 
 ## 🗓 Timings
 
-* Brewing: 2019-01-27
-* Dry tea: 2019-02-04
+* Brewing: 2019-02-09
+* Dry grapefruit:
 * Botteling:
 * Tasting:
