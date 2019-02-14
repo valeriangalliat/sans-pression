@@ -47,6 +47,6 @@
 ## 🗓 Timings
 
 * Brewing: 2019-02-09
-* Dry grapefruit:
+* Dry grapefruit: 2019-02-14
 * Botteling:
 * Tasting:
