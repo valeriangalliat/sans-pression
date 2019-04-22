@@ -49,4 +49,12 @@
 * Brewing: 2019-02-09
 * Dry grapefruit: 2019-02-14
 * Botteling: 2019-03-23
-* Tasting:
+* Tasting: 2019-04-04
+
+## 😋 Tasting
+
+Smells like a Belgian beer, notes of grapefruit on the palate but not
+overwhelming. Some sourness. Lots of cereals in the mouth, good
+bitterness.
+
+Feels like between 5.5 and 6.5 percent.
