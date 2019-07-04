@@ -24,7 +24,7 @@
 
 ### 🍌 Extra
 
-* To determine
+* A dozen of bananas ($2.5 worth at the IGA, was so cheap)
 
 ## 📖 Recipe
 
@@ -49,12 +49,13 @@
 * Syphon into carboy
 * Add yeast and gently mix
 * After 2 days of active fermenting, dry hop with 31 g Summit and 31 g Citra
-* Also add the banana
+* Also add the bananas, previously "juiced" (peeled and blended) and
+  pasteurised (15 minutes between 65 and 75 °C)
 
 ## 🗓 Timings
 
 * Brewing: 2019-06-29
-* Dry hop:
+* Dry hop: 2019-06-03
 * Botteling:
 * Tasting:
 
