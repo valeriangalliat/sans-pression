@@ -15,7 +15,8 @@ result in dryer beer.
 
 ## Brewing
 
-If the yeast is refrigerated, might as well get it out right now.
+If the yeast is refrigerated, might as well get it out right now and
+activate it.
 
 Rinse bucket, medium (19 L) and big caldron (with spigot).
 
@@ -53,8 +54,6 @@ the copper will be hot.
 
 When done with the boil, start running cool water through the wort
 chiller.
-
-Probably a good idea to activate the yeast now.
 
 While it's cooling, prepare OxySan (see ratio above) and sanitize the
 carboy.
