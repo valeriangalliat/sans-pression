@@ -48,7 +48,7 @@
 
 * Brewing: 2019-02-09
 * Dry grapefruit: 2019-02-14
-* Botteling: 2019-03-23
+* Bottling: 2019-03-23
 * Tasting: 2019-04-04
 
 ## 😋 Tasting

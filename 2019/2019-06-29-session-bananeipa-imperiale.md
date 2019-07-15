@@ -56,7 +56,7 @@
 
 * Brewing: 2019-06-29
 * Dry hop: 2019-06-03
-* Botteling:
+* Bottling:
 * Tasting:
 
 ## 😋 Tasting
