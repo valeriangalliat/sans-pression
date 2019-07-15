@@ -21,4 +21,4 @@ Check out the recipes we tried so far!
 * 2019-01-27 [Fruithé](2019/2019-01-27-fruithe.md)
 * 2019-02-09 [Pample-mousse](2019/2019-02-09-pample-mousse.md)
 * 2019-06-29 [Session BanaNEIPA Impériale](2019/2019-06-29-session-bananeipa-imperiale.md)
-* 2019-07-13 [Rousse à l'érable](2019/2019-07-13-rousse-erable.md)
+* 2019-07-13 [McMaple](2019/2019-07-13-mcmaple.md)
