@@ -13,6 +13,13 @@ Usually, we do half a table spoon for whatever pot is about 2 liters.
 Higher temperature will result in sweeter beer, lower temperature will
 result in dryer beer.
 
+## Mead
+
+Ferment 2 to 3 months.
+
+Use fruit juice, not actual fruit, use about 20% of juice, since the
+beginning of fermentation.
+
 ## Brewing
 
 If the yeast is refrigerated, might as well get it out right now and
