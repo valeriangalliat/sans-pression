@@ -60,3 +60,8 @@
 * Tasting: 2019-08-25
 
 ## 😋 Tasting
+
+Turned really hazy as expected for a NEIPA, beautiful color.
+
+The banana gives a discrete aftertaste but the hops are clearly
+dominating.
