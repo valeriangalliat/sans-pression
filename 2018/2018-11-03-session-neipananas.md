@@ -49,6 +49,9 @@
 * Cool down to 20 °C
 * Syphon into carboy
 * Add yeast and gently mix
+
+### 🌵 Dry hop
+
 * After 2 days of active fermenting, dry hop with 31 g Simcoe and 31 g Citra
 
 ## 🗓 Timings

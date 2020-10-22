@@ -45,6 +45,7 @@ honey malt which is likely gonna overpower everything.
 
 ### 🍍 Extra
 
+* Lactose
 * Mango (to be determined)
 
 ## 📖 Recipe
@@ -66,8 +67,15 @@ honey malt which is likely gonna overpower everything.
 * Cool down to 20 °C
 * Syphon into carboy
 * Add yeast and gently mix
+
+### 🌵 Dry hop
+
 * After 2 days of active fermenting, dry hop with 1 oz Cascade and 1 oz Lemondrop
 * Also add the mango
+
+### 🧪 Bottling
+
+* Add lactose to taste
 
 ## 🗓 Timings
 
