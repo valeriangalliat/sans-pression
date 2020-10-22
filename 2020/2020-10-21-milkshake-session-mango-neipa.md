@@ -43,7 +43,7 @@ honey malt which is likely gonna overpower everything.
 
 * White Labs WLP001 California Ale (5 gallons pack)
 
-### 🍍 Extra
+### 🥭 Extra
 
 * Lactose
 * Mango (to be determined)
