@@ -70,8 +70,8 @@ honey malt which is likely gonna overpower everything.
 
 ### 🌵 Dry hop
 
-* After 2 days of active fermenting, dry hop with 1 oz Cascade and 1 oz Lemondrop
-* Also add the mango
+* After 2 days of active fermenting, add the mango
+* After another 2 days, dry hop with 1 oz Cascade and 1 oz Lemondrop
 
 ### 🧪 Bottling
 
@@ -80,7 +80,8 @@ honey malt which is likely gonna overpower everything.
 ## 🗓 Timings
 
 * Brewing: 2020-10-21
-* Dry hop:
+* Dry mango: 2020-10-26
+* Dry hop: 2020-10-27
 * Bottling:
 * Tasting:
 
