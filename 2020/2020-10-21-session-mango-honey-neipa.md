@@ -1,6 +1,6 @@
-# 🍺 Milkshake session mango NEIPA
+# 🍺 Session mango honey NEIPA
 
-> 📝 Session NEIPA with lactose and mango.
+> 📝 Session NEIPA with honey malt and mango.
 
 ##  ⚖️ Ingredient (6 gallons)
 
@@ -45,8 +45,7 @@ honey malt which is likely gonna overpower everything.
 
 ### 🥭 Extra
 
-* Lactose
-* Mango (to be determined)
+* 4 mangoes
 
 ## 📖 Recipe
 
@@ -73,16 +72,12 @@ honey malt which is likely gonna overpower everything.
 * After 2 days of active fermenting, add the mango
 * After another 2 days, dry hop with 1 oz Cascade and 1 oz Lemondrop
 
-### 🧪 Bottling
-
-* Add lactose to taste
-
 ## 🗓 Timings
 
 * Brewing: 2020-10-21
 * Dry mango: 2020-10-26
 * Dry hop: 2020-10-27
-* Bottling:
+* Bottling: 2020-11-20
 * Tasting:
 
 ## 😋 Tasting

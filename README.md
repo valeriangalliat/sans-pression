@@ -24,5 +24,5 @@ Check out the recipes we tried so far!
 * 2019-07-13 [McMaple](2019/2019-07-13-mcmaple.md)
 * 2019-11-17 [More mead](2019/2019-11-17-more-mead.md)
 * 2020-07-03 [Sour vanilla milky session stout](2020/2020-07-03-sour-vanilla-milky-session-stout.md)
-* 2020-10-21 [Milkshake session mango NEIPA](2020/2020-10-21-milkshake-session-mango-neipa.md)
+* 2020-10-21 [Session mango honey NEIPA](2020/2020-10-21-session-mango-honey-neipa.md)
 
