@@ -81,4 +81,4 @@ jar, or sanitize the airlock, and set up the blow-of or the airlock.
 ## Bottling
 
 Pretty much all you need is
-[Northern Brewer Priming Sugar Calculator](https://northernbrewer.ca/pages/priming-sugar-calculator).
+[Northern Brewer Priming Sugar Calculator](https://www.northernbrewer.com/pages/priming-sugar-calculator).
