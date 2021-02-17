@@ -50,7 +50,7 @@
 
 ## 🗓 Timings
 
-* Brewing: 2021-02-09
+* Brewing: 2021-02-09 (1030 OG)
 * Dry tea: 2021-02-15
 * Bottling:
 * Tasting:
