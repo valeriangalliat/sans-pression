@@ -78,6 +78,9 @@ honey malt which is likely gonna overpower everything.
 * Dry mango: 2020-10-26
 * Dry hop: 2020-10-27
 * Bottling: 2020-11-20
-* Tasting:
+* Tasting: 2020-12-04
 
 ## 😋 Tasting
+
+Really put too much honey malt and it's overpowering. Not a NEIPA, and
+can't taste the mango either. Still pleasant to drink!
