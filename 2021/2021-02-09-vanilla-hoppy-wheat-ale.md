@@ -52,7 +52,7 @@
 
 * Brewing: 2021-02-09 (1030 OG)
 * Dry tea: 2021-02-15
-* Bottling:
+* Bottling: 2021-03-11
 * Tasting:
 
 ## 😋 Tasting
