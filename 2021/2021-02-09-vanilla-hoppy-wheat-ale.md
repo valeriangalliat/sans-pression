@@ -53,6 +53,9 @@
 * Brewing: 2021-02-09 (1030 OG)
 * Dry tea: 2021-02-15
 * Bottling: 2021-03-11
-* Tasting:
+* Tasting: 2021-03-24
 
 ## 😋 Tasting
+
+Subtle tea flavor, can taste green tea, can't really taste vanilla. Dry
+taste and somewhat thin body.
