@@ -59,3 +59,6 @@
 
 Subtle tea flavor, can taste green tea, can't really taste vanilla. Dry
 taste and somewhat thin body.
+
+Tasted it a bit later, the swing top pop is solid, the color is
+especially nice with a golden haze.
