@@ -16,6 +16,7 @@ Check out the recipes we tried so far!
 
 ### 2021
 
+* 2021-03-28 [🍑 Apricot wulong wheat ale](2021/2021-03-28-apricot-wulong-wheat-ale.md)
 * 2021-02-09 [🍦 Vanilla hoppy wheat ale](2021/2021-02-09-vanilla-hoppy-wheat-ale.md)
 
 ### 2020
