@@ -1,4 +1,4 @@
-# 🍺 Session mango honey NEIPA
+# 🥭 Session mango honey NEIPA
 
 > 📝 Session NEIPA with honey malt and mango.
 

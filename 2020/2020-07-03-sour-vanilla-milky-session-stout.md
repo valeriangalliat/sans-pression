@@ -1,4 +1,4 @@
-# 🍺 Sour vanilla milky session stout
+# 🦉 Sour vanilla milky session stout
 
 > 📝 Stout with lactose and vanilla that turned out lighter and sour.
 

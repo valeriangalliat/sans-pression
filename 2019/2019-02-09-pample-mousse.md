@@ -1,4 +1,4 @@
-# 🍺 Pample-mousse
+# 🍊 Pample-mousse
 
 > 📝 Grapefruit Brett saison.
 

@@ -1,4 +1,4 @@
-# 🍺 Vanilla hoppy wheat ale
+# 🍦 Vanilla hoppy wheat ale
 
 > 📝 Hoppy wheat ale with vanilla green tea (infused after active fermentation).
 

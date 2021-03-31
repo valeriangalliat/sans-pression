@@ -1,4 +1,4 @@
-# 🍺 Mango mead
+# 🥭 Mango mead
 
 > 📝 Mango mead.
 

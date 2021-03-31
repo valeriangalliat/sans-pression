@@ -1,4 +1,4 @@
-# 🍺 Session NEIPAnanas
+# 🍍 Session NEIPAnanas
 
 > 📝 Session NEIPA with pineapple (added at the end of the wort boil).
 

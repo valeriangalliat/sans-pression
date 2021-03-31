@@ -1,4 +1,4 @@
-# 🍺 Session NEIPAnanas Impériale
+# 🍍 Session NEIPAnanas Impériale
 
 > 📝 Session NEIPA with pineapple (added at the dry hop).
 

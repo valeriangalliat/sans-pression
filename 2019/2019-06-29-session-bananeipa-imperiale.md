@@ -1,4 +1,4 @@
-# 🍺 Session BanaNEIPA Impériale
+# 🍌 Session BanaNEIPA Impériale
 
 > 📝 Session NEIPA with banana (added at the dry hop).
 
