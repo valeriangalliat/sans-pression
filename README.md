@@ -26,7 +26,7 @@ Check out the recipes we tried so far!
 
 ### 2019
 
-* 2019-11-17 [🍯 More mead **[WM]**](2019/2019-11-17-more-mead.md)
+* 2019-11-17 [🍯 Wildflower mead **[WM]**](2019/2019-11-17-wildflower-mead.md)
 * 2019-07-13 [🍁 McMaple **[MM]**](2019/2019-07-13-mcmaple.md)
 * 2019-06-29 [🍌 Session BanaNEIPA Impériale **[B]**](2019/2019-06-29-session-bananeipa-imperiale.md)
 * 2019-02-09 [🍊 Pample-mousse **[P]**](2019/2019-02-09-pample-mousse.md)

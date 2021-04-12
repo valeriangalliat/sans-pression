@@ -1,4 +1,4 @@
-# 🍯 More mead
+# 🍯 Wildflower mead
 
 > 📝 Regular mead, but more of it, and with wildflower honey.
 
