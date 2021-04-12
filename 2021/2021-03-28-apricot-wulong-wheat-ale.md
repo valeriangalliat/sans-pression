@@ -6,7 +6,7 @@
 
 ### 🌾 Grains
 
-* 2 kg pilsner malt 5 lbs 2-row malt 2kg pislenr malt
+* 2 kg pilsner malt
 * 200 g wheat
 
 ### 🌿 Hops
@@ -50,8 +50,8 @@
 ## 🗓 Timings
 
 * Brewing: 2021-03-28 (1050 OG)
-* Dry hop:
-* Bottling:
+* Dry hop: 2021-04-05
+* Bottling: 2021-04-11 (1008 FG, 5.5%)
 * Tasting:
 
 ## 😋 Tasting

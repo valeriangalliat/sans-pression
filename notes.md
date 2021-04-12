@@ -82,3 +82,11 @@ jar, or sanitize the airlock, and set up the blow-of or the airlock.
 
 Pretty much all you need is
 [Northern Brewer Priming Sugar Calculator](https://www.northernbrewer.com/pages/priming-sugar-calculator).
+
+## ABV calculation
+
+From [Northern Brewer](https://www.northernbrewer.com/blogs/brewing-techniques/how-much-alcohol-will-there-be),
+`(OG - FG) * 131 = ABV`.
+
+See [this post](https://www.quora.com/Where-does-the-alcohol-content-equation-A-OG-FG-*131-in-fermentation-come-from)
+for where the 131 constant comes from.
