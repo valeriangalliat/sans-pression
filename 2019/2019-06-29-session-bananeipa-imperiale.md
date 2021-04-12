@@ -2,6 +2,8 @@
 
 > 📝 Session NEIPA with banana (added at the dry hop).
 
+**Label:** B
+
 ##  ⚖️ Ingredient (6 gallons)
 
 ### 🌾 Grains

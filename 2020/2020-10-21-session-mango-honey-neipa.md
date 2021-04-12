@@ -2,6 +2,8 @@
 
 > 📝 Session NEIPA with honey malt and mango.
 
+**Label:** MH
+
 ##  ⚖️ Ingredient (6 gallons)
 
 ### 🌾 Grains

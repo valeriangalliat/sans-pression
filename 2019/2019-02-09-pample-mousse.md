@@ -2,6 +2,8 @@
 
 > 📝 Grapefruit Brett saison.
 
+**Label:** P
+
 ##  ⚖️ Ingredient (6 gallons)
 
 ### 🌾 Grains

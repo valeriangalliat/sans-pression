@@ -2,6 +2,8 @@
 
 > 📝 Hoppy wheat ale with vanilla green tea (infused after active fermentation).
 
+**Label:** GTAV (green tea ale vanilla)
+
 ##  ⚖️ Ingredient (6 gallons)
 
 ### 🌾 Grains

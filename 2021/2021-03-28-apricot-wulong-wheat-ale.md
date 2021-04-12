@@ -2,6 +2,8 @@
 
 > 📝 Wheat ale with apricot wulong tea (infused after active fermentation).
 
+**Label:** AWW
+
 ##  ⚖️ Ingredient (2 gallons)
 
 ### 🌾 Grains

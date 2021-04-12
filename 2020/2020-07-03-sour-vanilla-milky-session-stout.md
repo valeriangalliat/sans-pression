@@ -2,6 +2,8 @@
 
 > 📝 Stout with lactose and vanilla that turned out lighter and sour.
 
+**Label:** SSA (stout sans alcool)
+
 ##  ⚖️ Ingredient (6 gallons)
 
 ### 🌾 Grains
