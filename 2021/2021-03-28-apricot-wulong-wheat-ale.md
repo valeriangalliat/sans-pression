@@ -54,6 +54,8 @@
 * Brewing: 2021-03-28 (1050 OG)
 * Dry hop: 2021-04-05
 * Bottling: 2021-04-11 (1008 FG, 5.5%)
-* Tasting:
+* Tasting: 2021-04-23
 
 ## 😋 Tasting
+
+Nice tea taste, love it! Let's see how it evolves.
