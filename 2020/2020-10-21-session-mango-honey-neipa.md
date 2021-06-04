@@ -20,7 +20,7 @@ I randomly decided instead of using 100 g of honey malt we could replace
 the whole pale malt base with it and use a bit more than 2 kg instead,
 quoting myself earlier this year, "ça se tente, fuck it".
 
-This "NEIPA" is hella fucking dark right now, like I've seen darker
+This "NEIPA" is hella fucking dark right now, like I've seen lighter
 brown ales than that. Supposedly more than 10% of honey malt is overly
 sweet, so I'm curious what will be the result when we put nearly 50%.
 
