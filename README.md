@@ -10,7 +10,7 @@ lineup of the different carboys, and the state of active beers
 
 [board]: https://github.com/valeriangalliat/sans-pression/projects/1
 
-## 📖 Recipes
+## 📂 Recipes
 
 Check out the recipes we tried so far!
 
