@@ -16,6 +16,8 @@ Check out the recipes we tried so far!
 
 ### 2021
 
+* 2021-11-06 [🍇 Lavender Hefeweizen **[LH]**](2021/2021-11-06-lavender-hefeweizen.md)
+* 2021-11-06 [🟡 Saffron cream ale **[SCA]**](2021/2021-11-06-saffron-cream-ale.md)
 * 2021-03-28 [🍑 Apricot wulong wheat ale **[AWW]**](2021/2021-03-28-apricot-wulong-wheat-ale.md)
 * 2021-02-09 [🍦 Vanilla hoppy wheat ale **[GTAV]**](2021/2021-02-09-vanilla-hoppy-wheat-ale.md)
 
