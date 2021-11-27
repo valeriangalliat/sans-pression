@@ -50,8 +50,8 @@
 ## 🗓 Timings
 
 * Brewing: 2021-11-06 (1030 OG)
-* Dry hop:
-* Bottling:
+* Dry hop: 2021-11-14
+* Bottling: 2021-11-27 (1000 FG, 4%)
 * Tasting:
 
 ## 😋 Tasting

@@ -46,7 +46,7 @@
 ## 🗓 Timings
 
 * Brewing: 2021-11-06 (1045 OG)
-* Bottling:
+* Bottling: 2021-11-27 (1000 FG, 5.8%)
 * Tasting:
 
 ## 😋 Tasting
