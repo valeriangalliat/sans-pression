@@ -14,6 +14,11 @@ lineup of the different carboys, and the state of active beers
 
 Check out the recipes we tried so far!
 
+### 2022
+
+* 2022-TBD [🌾 Red rye ale **[RRA]**](2022/2022-red-rye-ale.md)
+* 2022-02-07 [🌺 Lavender Dunkelweizen **[LD]**](2022/2022-02-07-lavender-dunkelweizen.md)
+
 ### 2021
 
 * 2021-11-06 [🍇 Lavender Hefeweizen **[LH]**](2021/2021-11-06-lavender-hefeweizen.md)

@@ -47,6 +47,9 @@
 
 * Brewing: 2021-11-06 (1045 OG)
 * Bottling: 2021-11-27 (1000 FG, 5.8%)
-* Tasting:
+* Tasting: Somewhere in December
 
 ## 😋 Tasting
+
+Pretty tasty, and getting even better with time! Good balance of
+saffron.
