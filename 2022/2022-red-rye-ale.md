@@ -29,9 +29,9 @@
 
 ### 🚰 Mash
 
-* Mash 6 L at 73 °C for 1 hour (it should stay at 67 °C)
+* Mash 4 L at 73 °C for 1 hour (it should stay at 67 °C)
 * Drain into mash tun
-* Add 6 L at 76 °C for 15 minutes into the mash
+* Add 4 L at 76 °C for 15 minutes into the mash
 * Drain into mash tun
 
 ### ⏱  Boil

@@ -62,4 +62,9 @@ boil (and in much smaller quantity still).
 
 We'll see what it turns out like.
 
+Also like the two previous 1 gallon recipes using 3 L mash and 3 L
+sparge, I didn't fully fill the gallon jar fermenter. Should probably do
+4 L mash then 4 or 5 L sparge next time. It looks like recipes for 1
+gallon commonly use 9 L of water total.
+
 ## 😋 Tasting
