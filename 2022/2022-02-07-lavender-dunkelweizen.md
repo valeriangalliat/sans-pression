@@ -48,7 +48,7 @@
 ## 🗓 Timings
 
 * Brewing: 2022-02-07 (1035 OG)
-* Bottling: 2022-XX-XX (10XX FG, X%)
+* Bottling: 2022-03-03 (1010 FG, 3.27%)
 * Tasting:
 
 ## ✍️ Notes
