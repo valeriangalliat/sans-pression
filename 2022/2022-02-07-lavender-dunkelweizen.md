@@ -49,7 +49,7 @@
 
 * Brewing: 2022-02-07 (1035 OG)
 * Bottling: 2022-03-03 (1010 FG, 3.27%)
-* Tasting:
+* Tasting: 2022-03-24
 
 ## ✍️ Notes
 
@@ -68,3 +68,10 @@ sparge, I didn't fully fill the gallon jar fermenter. Should probably do
 gallon commonly use 9 L of water total.
 
 ## 😋 Tasting
+
+Pretty damn good. Still very lavender-y but the fact it's a dark beer
+makes it less overpowering as expected and it's actually pleasant and
+enjoyable.
+
+If I was to redo it I would put half the lavender. Maybe 1 g per
+gallon or something like this.
